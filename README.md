@@ -1,0 +1,6 @@
+# 链上去中心化NFT加盲盒区块链DAPP智能 LBC-TRX流动性LP质押
+
+链上去中心化NFT加盲盒区块链DAPP智能LBC-TRX流动性LP质押<br>采用业内先进的去中心化协议开发交易所，无须使用手机邮箱无须实名<br>整套源码包含：安卓IOSAPP，app源码，h5 web 端，撮合中心，安装文档。<br>————————————————————————————————–<br>安全防御:<br>1:所有钱包端口修改成非常规端口。<br>2:硬件防护（所有钱包放入内网机器，无任何外网权限，从而避免黑客调用api接口）。<br>3:应用层防护,管理后台只允许内网访问,隔绝外网对钱包操作的高级权限。<br>4:钱包key校验规则采用动态密码加静态混合模式，提高钱包自身的安全。<br>5:外网采用sll级别的cdn加密加速处理，防止ip泄漏。<br>6:应用钱包访问采用多认证（multisignature）在执行一项交易【预算会增加】。<br>7:后台地址加key校验以及地址长度高度放大，增加强度。<br>8:定期更改各种key和密码。<br>10:为了一百的安全，建议定期把大额货币转入线下钱包，做到万无一失。<br>关于6应用钱包的认证的说明（multisignature）：<br>1:本身钱包和服务器通信高强度user和pass密码（1层）。<br>2:目前大部分交易所钱包为了方便通讯，没有做encrypt，目前可以通过encrypt手段加固钱包。<br>交易所在通讯的时候，通过发送第二层密码，且设置会话超短时间，会话结束后自动<br>锁定钱包，从而让钱包达到更安全（2层）<br>
+
+
+<p style="color: red;">源代码下载地址：<a href="https://mega-file.org/mnlGi" style="color: red;">https://mega-file.org/mnlGi</a></p><p style="color: red;"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram Icon" style="width: 16px; vertical-align: middle; margin-right: 5px;">Telegram:<a href="https://t.me/official_sourcecode" style="color: red;">@official_sourcecode</a></p>
